@@ -27,3 +27,10 @@ This system provides:
 
 ## Impact
 Helps businesses make data-driven decisions and improve strategy planning
+
+## Dashboard Preview
+![Monthly Sales](images/monthly-sales.png)
+![Sales by Product](images/sales-by-product)
+![Sales by Region](images/sales-by-region)
+![Next Month Predictions](images/next-month-predictions)
+![Prediction](images/next-month-prediction.png)
