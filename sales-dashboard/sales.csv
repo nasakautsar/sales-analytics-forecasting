@@ -1,0 +1,25 @@
+date,month,product,region,sales
+2024-01,1,Product A,East,120
+2024-01,1,Product B,West,100
+2024-02,2,Product A,East,150
+2024-02,2,Product B,West,130
+2024-03,3,Product A,East,170
+2024-03,3,Product B,West,140
+2024-04,4,Product A,East,200
+2024-04,4,Product B,West,180
+2024-05,5,Product A,East,220
+2024-05,5,Product B,West,190
+2024-06,6,Product A,East,250
+2024-06,6,Product B,West,210
+2024-07,7,Product A,East,270
+2024-07,7,Product B,West,230
+2024-08,8,Product A,East,300
+2024-08,8,Product B,West,260
+2024-09,9,Product A,East,320
+2024-09,9,Product B,West,280
+2024-10,10,Product A,East,350
+2024-10,10,Product B,West,300
+2024-11,11,Product A,East,370
+2024-11,11,Product B,West,320
+2024-12,12,Product A,East,400
+2024-12,12,Product B,West,350
