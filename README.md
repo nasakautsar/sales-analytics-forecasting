@@ -1,15 +1,29 @@
-# Sales Dashboard & Prediction
+# Sales Analytics & Forecasting Dashboard
 
 ## Overview
-This project analyzes sales data and predicts future sales using machine learning.
+This project is a Business Intelligence dashboard designed to analyze sales data and provide future sales predictions using machine learning.
 
-## Features
+## Problem
+Many businesses have raw sales data but lack insights for decision-making.
+
+## Solution
+This system provides:
 - Sales visualization
 - Product & region analysis
-- Sales prediction
+- Sales forecasting
+- Business insights
 
 ## Tech Stack
 - Python
 - Streamlit
 - Pandas
 - Scikit-learn
+
+## Key Features
+- Interactive dashboard
+- Sales trend analysis
+- Top product identification
+- Next month sales prediction
+
+## Impact
+Helps businesses make data-driven decisions and improve strategy planning
