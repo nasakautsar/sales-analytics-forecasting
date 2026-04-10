@@ -33,4 +33,3 @@ Helps businesses make data-driven decisions and improve strategy planning
 ![Sales by Product](images/sales-by-product.png)
 ![Sales by Region](images/sales-by-region.png)
 ![Next Month Predictions](images/next-month-predictions.png)
-![Prediction](images/next-month-prediction.png)
